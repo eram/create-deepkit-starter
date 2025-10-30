@@ -1,0 +1,39 @@
+{
+  "name": "create-deepkit-starter",
+  "version": "0.1.0",
+  "description": "Scaffold a new Deepkit project",
+  "type": "module",
+  "bin": {
+    "create-deepkit-starter": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "deepkit",
+    "create",
+    "scaffold",
+    "template",
+    "starter",
+    "generator",
+    "typescript",
+    "framework",
+    "cli",
+    "vite",
+    "vitest"
+  ],
+  "author": "Eram <eram@weblegions.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eram/deepkit-starter.git",
+    "directory": "packages/create-deepkit-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/eram/deepkit-starter/issues"
+  },
+  "homepage": "https://github.com/eram/deepkit-starter#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
