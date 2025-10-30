@@ -2,6 +2,8 @@
 
 Scaffold a new [Deepkit Framework](https://deepkit.io) project with TypeScript, Vitest, and production-ready infrastructure.
 
+This tool instantiates projects from the [deepkit-starter](https://github.com/eram/deepkit-starter) template repository.
+
 ## Usage
 
 Create a new Deepkit project with one command:
